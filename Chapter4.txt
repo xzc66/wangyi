@@ -1,0 +1,8 @@
+1.熟练掌握前端所需HTML、CSS技能，熟悉jQuery、bootstrap和scss预编译处理
+2.熟练掌握elementui、mintui、vantui等常用的ui组件库
+3.熟悉使用HTML5新特性canvas、svg、video、Echarts等
+4.熟练使用Vue.js，vuex、vue-router、axios
+5.熟悉vue2、uniapp、react前端框架，能够结合第三方组件库开发
+6.熟悉JavaScript编程及ES6的新特性等
+7.熟悉版本操控工具Git的基本命令
+8.了解vue3、TS
